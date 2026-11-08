@@ -27,7 +27,7 @@ Struktur: route -> controller -> service -> Prisma.
 1. Clone repository dan masuk ke foldernya:
    ```bash
    git clone https://github.com/meyrosa/week10_Express-x-Database.git
-   cd week9_expressjs
+   cd week10_Express-x-Database
    ```
 2. Install dependency:
    ```bash
