@@ -1,7 +1,9 @@
 # API Produk dengan ExpressJS, Prisma, dan PostgreSQL
 
 **Nama:** Mey Rosalina
+
 **NRP:** 5027241004
+
 **Mata Kuliah:** Pemrograman Web A
 
 REST API daftar produk menggunakan ExpressJS, TypeScript, Prisma 7, dan PostgreSQL.
