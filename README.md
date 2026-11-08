@@ -209,6 +209,7 @@ Server dihentikan (`Ctrl+C`) lalu dijalankan ulang dengan `npm run dev`, kemudia
 
 ![Restart terminal](docs/screenshots/17-restart-terminal.png)
 
+#### Data masih tersimpan
 ![GET setelah restart](docs/screenshots/18-get-setelah-restart.png)
 
 ## 3. Perubahan pada Database (Before-After)
