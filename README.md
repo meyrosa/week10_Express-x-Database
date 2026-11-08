@@ -126,14 +126,14 @@ Tabel `Product` pada Prisma Studio masih kosong.
 ### 2.2 POST produk pertama (sukses)
 - Request: `POST /products`, body `{"name":"Buku","price":15000}`
 - Harapan: 201 dan objek dengan `id` dari database.
-- Hasil: [isi status dan id]
+- Hasil: 201 created dan id 1
 
 ![POST Buku](docs/screenshots/01-post-buku.png)
 
 ### 2.3 POST produk kedua (sukses)
 - Request: `POST /products`, body `{"name":"Pulpen","price":5000}`
 - Harapan: 201 dan `id` berbeda dari produk pertama.
-- Hasil: [isi status dan id]
+- Hasil: 201 created dan id 2
 
 ![POST Pulpen](docs/screenshots/02-post-pulpen.png)
 
